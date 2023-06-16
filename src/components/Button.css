@@ -1,0 +1,14 @@
+button {
+  height: 3.1rem;
+  width: 11.1rem;
+  font-family: "RobotoSlabMedium";
+  font-size: 2rem;
+  background-color: var(--color-yellow);
+  color: var(--color-white);
+  border-radius: 4rem;
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+}

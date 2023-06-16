@@ -1,0 +1,28 @@
+.beer-detail-art {
+  padding: 4rem 4.5rem;
+}
+
+.product-img {
+  width: 100%;
+  height: 41rem;
+  object-fit: contain;
+  margin: 0 0 2.5rem 0;
+}
+
+.brewed-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 1rem 0;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.beer-detail-art h3 {
+  margin: 0 0 2.4rem 0;
+}
+
+.beer-detail-art p {
+  margin: 0 0 2.8rem 0;
+}
